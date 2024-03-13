@@ -1,0 +1,4 @@
+@import './base.css';
+div{
+    box-sizing: border-box;
+}
